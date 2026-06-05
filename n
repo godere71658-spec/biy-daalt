@@ -1,0 +1,9 @@
+
+import math
+
+a = 15
+b = 20
+
+c = math.sqrt(a * a + b * b)
+
+print(c)
